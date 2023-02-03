@@ -1,0 +1,11 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F6A316;}
+	.st1{fill:#083344;}
+	.st2{fill:#ECEEF1;}
+	.st3{opacity:0.5;fill:#083344;}
+</style>
+<path class="st1" d="M462,256c0,113.8-92.2,206-206,206S50,369.8,50,256S142.2,50,256,50v50.9c-85.63,0-155.1,69.46-155.1,155.1
+	S170.37,411.1,256,411.1S411.1,341.63,411.1,256H462z" id="id_101" style="fill: rgb(209, 209, 209);"></path>
+<path class="st3" d="M462,256h-50.9c0-85.63-69.46-155.1-155.1-155.1V50C369.8,50,462,142.2,462,256z" id="id_102" style="fill: rgb(64, 64, 64);"></path>
+</svg>
